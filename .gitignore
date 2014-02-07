@@ -1,0 +1,4 @@
+# visual studio database #
+*.sdf
+# Mac File Index #
+.DS_store
